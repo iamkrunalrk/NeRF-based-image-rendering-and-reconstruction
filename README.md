@@ -1,4 +1,4 @@
-# NeRF-Based Image Rendering and Reconstruction
+# Efficient NeRF for Neural Scene Rendering
 
 This project implements a **Neural Radiance Fields (NeRF)** model for rendering 3D scenes from 2D images using TensorFlow and Keras. The model focuses on volume rendering, computer vision, and neural networks to generate realistic 3D reconstructions from multi-view images. 
 
